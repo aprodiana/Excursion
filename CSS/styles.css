@@ -51,5 +51,23 @@ p, a {
 
 #travel-guide img {
     width: 70%;
-    padding: 15px 0;
+    padding: 20px 0;
+}
+
+/* Coming soon */
+
+#coming-soon h2 {
+    margin: 30px 0;
+}
+
+#coming-soon {
+    margin-bottom: 30px;
+}
+
+/* Footer */
+
+footer h5 {
+    text-align: right;
+    padding-bottom: 20px;
+    padding-right: 10px;
 }
