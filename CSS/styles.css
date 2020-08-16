@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    align-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p, a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/* Banner */
+
+#banner h1 {
+    margin: 42px 0;
+}
+
+video {
+    padding: 20px 0;
+}
